@@ -108,9 +108,10 @@ Sentinel-AI
 ├── requirements.txt
 ├── README.md
 ├── architecture/
-├── docs
+├── docs.
 
- ## 📸 Project Screenshots
+
+## 📸 Project Screenshots
 
 ### Grafana Dashboard
 ![Grafana Dashboard](screenshots/grafana-dashboard.png)
