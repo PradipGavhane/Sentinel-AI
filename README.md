@@ -94,6 +94,21 @@ Grafana Dashboard
 - GitHub
 
 ---
+## 📸 Project Screenshots
+
+### Grafana Dashboard
+![Grafana Dashboard](screenshots/grafana-dashboard.png)
+
+### Prometheus Targets
+![Prometheus Targets](screenshots/prometheus-targets.png)
+
+### Docker Containers
+![Docker Containers](screenshots/docker-containers.png)
+
+### AI Engine
+![AI Engine](screenshots/ai-engine.png)
+
+
 
 # 📂 Project Structure
 
@@ -111,18 +126,4 @@ Sentinel-AI
 ├── docs
 
 ---
-
-## 📸 Project Screenshots
-
-### Grafana Dashboard
-![Grafana Dashboard](screenshots/grafana-dashboard.png)
-
-### Prometheus Targets
-![Prometheus Targets](screenshots/prometheus-targets.png)
-
-### Docker Containers
-![Docker Containers](screenshots/docker-containers.png)
-
-### AI Engine
-![AI Engine](screenshots/ai-engine.png)
 
