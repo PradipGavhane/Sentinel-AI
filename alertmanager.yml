@@ -1,0 +1,25 @@
+global:
+  resolve_timeout: 5m
+
+route:
+  receiver: sentinel
+
+receivers:
+  - name: sentinel
+    telegram_configs:
+      - bot_token: "8598789716:AAFI88bh7Dr8bVh8A1Lqi1d4vCDK-SIDFtA"
+        chat_id: 5031280903
+        parse_mode: HTML
+        message: |
+          🚨 <b>Sentinel AI Alert</b>
+
+          <b>Alert:</b> {{ .CommonLabels.alertname }}
+          <b>Severity:</b> {{ .CommonLabels.severity }}
+
+          {{ .CommonAnnotations.summary }}
+
+          {{ .CommonAnnotations.description }}
+
+    webhook_configs:
+      - url: "http://host.docker.internal:5000/alert"
+        send_resolved: true
