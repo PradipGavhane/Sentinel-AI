@@ -108,8 +108,9 @@ Sentinel-AI
 ├── requirements.txt
 ├── README.md
 ├── architecture/
-├── docs.
+├── docs
 
+---
 
 ## 📸 Project Screenshots
 
