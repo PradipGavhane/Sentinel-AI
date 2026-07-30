@@ -110,8 +110,7 @@ Sentinel-AI
 ├── architecture/
 ├── docs
 
-
-## 📸 Project Screenshots
+ ## 📸 Project Screenshots
 
 ### Grafana Dashboard
 ![Grafana Dashboard](screenshots/grafana-dashboard.png)
@@ -124,3 +123,4 @@ Sentinel-AI
 
 ### AI Engine
 ![AI Engine](screenshots/ai-engine.png)
+
