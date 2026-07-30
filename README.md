@@ -106,7 +106,7 @@ Grafana Dashboard
 ![Docker Containers](screenshots/docker-containers.png)
 
 ### AI Engine
-![AI Engine](screenshots/ai-engine.png)
+![AI Engine](screenshots/ai-engine-console.png)
 
 
 
