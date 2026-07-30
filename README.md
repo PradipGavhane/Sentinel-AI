@@ -63,7 +63,9 @@ Grafana Dashboard
 ```
 
 ---
+## 🏗️ System Architecture
 
+![Sentinel AI Architecture](architecture/sentinel-ai-architecture.png)
 # 🛠️ Technology Stack
 
 ## Cloud
