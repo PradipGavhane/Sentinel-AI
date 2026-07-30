@@ -100,7 +100,7 @@ Grafana Dashboard
 ![Grafana Dashboard](screenshots/grafana-dashboard.png)
 
 ### Prometheus Targets
-![Prometheus Targets](screenshots/prometheus-targets.png)
+![Prometheus Targets](screenshots/Prometheus-targets.png)
 
 ### Docker Containers
 ![Docker Containers](screenshots/docker-containers.png)
