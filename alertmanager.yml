@@ -7,7 +7,7 @@ route:
 receivers:
   - name: sentinel
     telegram_configs:
-      - bot_token: "8598789716:AAFI88bh7Dr8bVh8A1Lqi1d4vCDK-SIDFtA"
+      - bot_token: "Bot Token"
         chat_id: 5031280903
         parse_mode: HTML
         message: |
